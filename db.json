@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Build a to-do app",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Learn Vite",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Learn Tailwind CSS",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "Learn Ant Design",
+      "completed": false
+    }
+  ]
+}
